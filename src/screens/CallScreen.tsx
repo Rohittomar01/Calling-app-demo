@@ -58,6 +58,7 @@ export default function CallScreen() {
       }
     };
   }, [status]);
+  
 
   // Navigate back after ending call
   useEffect(() => {
